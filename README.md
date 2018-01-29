@@ -1,4 +1,4 @@
-Updated Dockerfile from [shipbeat/woocommerce](https://hub.docker.com/r/shipbeat/woocommerce/) to run Wordpress 4.9.1 with Woocommerce 3.2.1
+Updated Dockerfile from [shipbeat/woocommerce](https://hub.docker.com/r/shipbeat/woocommerce/) to run WordPress 4.9.2 with Woocommerce 3.2.6
 
 Example `docker-compose.yml` file to run woocommerce with mariadb:
 

@@ -1,4 +1,4 @@
-FROM wordpress:4.9.1
+FROM wordpress:4.9.2
 
 ENV WOOCOMMERCE_VERSION 3.2.6
 
