@@ -1,6 +1,6 @@
-FROM wordpress:4.9.2
+FROM wordpress:4.9.4
 
-ENV WOOCOMMERCE_VERSION 3.2.6
+ENV WOOCOMMERCE_VERSION 3.3.3
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends unzip wget \
